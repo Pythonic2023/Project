@@ -1,3 +1,3 @@
 # Projects
 
-Branch containing programs I have seen by others as useful and fun or made by myself to learn. 
+Branch containing code I have so far learned.
